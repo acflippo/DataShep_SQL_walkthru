@@ -2,7 +2,11 @@
 
 This is an example on how to solve an AI or data science interview question in SQL.
 
-Video: https://youtu.be/Na11fz5mg64
+Videos: 
+
+Part 1: https://youtu.be/Na11fz5mg64
+<br>
+Part 2: https://youtu.be/aEg9Z99Yn6E
 
 Channel: https://www.youtube.com/@datashep
 
